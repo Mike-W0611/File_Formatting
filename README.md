@@ -1,11 +1,15 @@
 Explanation of calling .ps1 files
 
 1.Download the .ps1 files.
+
 2.Open PowerShell on the folder that the files located.
+
 3.Use the command to call the function.
+
 4.Paste the document you need to rename in the folder "toFix".
-5.Copy the path of the folder "toFix" and 
-edit each of the .ps1 files that has parameter $FolderPath.
+
+5.Copy the path of the folder "toFix" and edit each of the .ps1 files that has parameter $FolderPath.
+
 6. call the function as below.
 
 - makeProper.ps1	: .\makeProper.ps1
